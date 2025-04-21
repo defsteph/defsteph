@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @defsteph
 - 👀 I’m interested in working with the kindest, funniest and smartest people, in that order.
-- 🌱 I’m currently learning more about GraphQL and federation.
+- 🌱 I’m currently learning more about LLMs, Platform Engineering and how we can tie it all together.
 - 💞️ I’m looking to collaborate on interesting things
 - 📫 Look me up!
 
